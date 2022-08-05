@@ -70,8 +70,8 @@ Voçê pode testar a API com Postman.
 ### Como instalar e Rodar
 * Para baixar o projeto
 ```
-1. git clone https://github.com/AdeirMoreira/Projeto-Music-Awards.git
-2. cd Projeto-Music-Awards
+1. git clone https://github.com/AdeirMoreira/Full_Stack-Grafico_de_Participacao.git
+2. cd Full_Stack-Grafico_de_Participacao/front-end/
 ```
 * Para instalar e rodar o projeto
 ```
@@ -94,8 +94,8 @@ O Projeto abrirá no seu navegador padrão na porta 3000
 ### Como instalar e Rodar
 * Para baixar o projeto
 ```
-1. git clone https://github.com/AdeirMoreira/Projeto-Music-Awards.git
-2. cd Projeto-Music-Awards
+1. git https://github.com/AdeirMoreira/Full_Stack-Grafico_de_Participacao.git
+2. cd cd Full_Stack-Grafico_de_Participacao/back-end/
 ```
 * Para instalar e rodar o projeto
 ```
