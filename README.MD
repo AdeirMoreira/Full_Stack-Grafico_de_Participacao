@@ -13,7 +13,7 @@
 
 <h1 id="sobre">📊 Gráfico Participação</h1>
 
-Gráfico de participação e um projeto full-Stack desenvolvido durante o bootcamp Labenu para praticar React e integração com API. O front-end é uma pagina onde podemos fornecer um nome e um sobrenome e cota de participação, o dados são monstrados em um gráfico, a cota pode ser editada ou excuída. O Back-end é um CRUD dos dados enviados pelo front-end. Foram utulizadas as tecnologias **React** no front-end. Back-front foi construido com **Node.JS TypeScript e Express.JS** e **MySQL** como banco de dados e **Jest** para teste.
+Gráfico de participação e um projeto full-Stack desenvolvido durante o bootcamp Labenu para praticar React e integração com API. O front-end é uma pagina onde podemos fornecer um nome e um sobrenome e cota de participação, o dados são monstrados em um gráfico, a cota pode ser editada ou excuída. O Back-end é um CRUD dos dados enviados pelo front-end. Foi utulizada a tecnologia **React** no front-end. Back-front foi construido com **Node.JS TypeScript e Express.JS** e **MySQL** como banco de dados e **Jest** para teste.
 
 <h2 id="imagens">📱 Imagens do site</h2>
 
